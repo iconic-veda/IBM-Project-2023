@@ -44,20 +44,18 @@ In Line 8: Replace database name with your own pre-exisiting database name: cons
 <img width="607" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/764019e7-1bbd-4354-ba24-becb7e1c73d7">
 
 ### Images for working reference:
-Initial webpage:<br> 
-<img width="303" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/034615f2-bb7a-47f4-9514-75435be4d332"><br>
+Initial login page:<br> 
+<img width="903" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/e3249491-b63b-4cc7-8de2-e63a44b8a8c1"><br>
 
-Entering value for creation of new document: <br>
-<img width="324" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/b7216a62-e3d7-47a2-86e5-19aa9d820824"><br>
+Homepage: <br>
+<img width="899" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/157a9a2f-a1aa-415a-a517-47972989f02b"><br>
 
-New document created in CouchDB: <br>
-<img width="262" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/a6075cc9-2b54-4881-bf26-670a4c2482ce"><br>
+BluePage SyncUp - data retrieved from couchdb and 5 fields editable as name of employee is entered: <br>
+<img width="907" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/79337087-b045-46ec-9251-8479a7a5ce69"><br>
 
-Successfull fetching data from CouchDB:<br>
-<img width="373" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/af0d0b23-b411-4473-8ece-d4a192f0f8ac"><br>
+Editing data:<br>
+<img width="907" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/d53e2b9e-3473-4f47-9e00-e604c22c5f9d"><br>
 
-Successfull error generated for missing document from CouchDB:<br>
-<img width="348" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/aa06ebbb-7199-4506-8fdd-a77d077a248d"><br>
 
 
 
