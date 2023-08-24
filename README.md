@@ -21,7 +21,8 @@ npm install express nano body-parser cors
 In Line 3: Replace username, password of CouchDB database with your own, in the format: http://username:password@localhost:5984 <br>
 In Line 8: Replace database name with your own pre-exisiting database name: const dbName = 'database-name'; <br>
 
-<img width="170" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/dddfeb36-8cd1-4dae-b169-d852b1d9d10b">
+<img width="183" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/70429f8f-4ce6-4136-8077-b518402fbeda">
+
 
 ## Step 4: Execution
 -> Split the terminal in the code editor (one for backend, one for frontend) 
