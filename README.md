@@ -13,10 +13,10 @@ npm install
 npm install axios
 npm install express nano body-parser cors
 </pre>
--> Replace the App.js file with the uploaded App.js in src directory<br>
+-> Replace the src folder with the uploaded src directory<br>
 
 ## Step 3: Set up the backend server
--> Add backend/server.js to the root folder<br>
+-> Add Backend/server.js to the root folder<br>
 -> In the server.js file make the following changes:<br>
 In Line 3: Replace username, password of CouchDB database with your own, in the format: http://username:password@localhost:5984 <br>
 In Line 8: Replace database name with your own pre-exisiting database name: const dbName = 'database-name'; <br>
@@ -31,7 +31,7 @@ In Line 8: Replace database name with your own pre-exisiting database name: cons
 </pre>
 -> To execute the backend:
 <pre>
-    cd backend
+    cd Backend
     node server.js
 </pre>
 ->To execute the front end: 
