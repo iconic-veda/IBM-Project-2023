@@ -12,6 +12,21 @@ cd app-name
 npm install
 npm install axios
 npm install express nano body-parser cors
+npm install --legacy-peer-deps
+
+npm install axios --save --legacy-peer-deps
+
+npm install bootstrap --save --legacy-peer-deps
+
+npm install react-bootstrap-table-next --save --legacy-peer-deps
+
+npm install react-bootstrap-table2-paginator --save --legacy-peer-deps
+
+npm install react-bootstrap-table2-editor --save --legacy-peer-deps
+
+npm install react-icons --save --force
+
+npm install express express-rate-limit
 </pre>
 -> Replace the src folder with the uploaded src directory<br>
 
