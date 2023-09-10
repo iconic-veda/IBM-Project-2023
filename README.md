@@ -27,6 +27,8 @@ npm install react-bootstrap-table2-editor --save --legacy-peer-deps
 npm install react-icons --save --force
 
 npm install express express-rate-limit
+
+npm install dotenv
 </pre>
 -> Replace the src folder with the uploaded src directory<br>
 
