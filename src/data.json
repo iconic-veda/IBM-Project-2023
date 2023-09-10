@@ -1,0 +1,78 @@
+[
+    {
+      "EmployeeSerial": "11111",
+      "EmployeeName": "John Smith",
+      "DeptCode": "QWE (AA)",
+      "DepName" : "",
+      "IsManager": "Yes",
+      "EmployeeType": "",
+      "LocationBluePages": "EGLC|A021|11",
+      "ManagerName": "Michael Lee",
+      "LeaderName": " ",
+      "EmployeeEmail": "john.smith@example.com",
+      "Diversity": "",
+      "WorkLocation": "Office A",
+      "Remarks": ""
+    },
+    {
+      "EmployeeSerial": "22222",
+      "EmployeeName": "Alice Johnson",
+      "DeptCode": "QWE (BB)",
+      "DepName" : "",
+      "IsManager": "Yes",
+      "EmployeeType": "",
+      "LocationBluePages": "EGLC|A021|22",
+      "ManagerName": "Michael Lee",
+      "LeaderName": "",
+      "EmployeeEmail": "alice.johnson@example.com",
+      "Diversity": "",
+      "WorkLocation": " Remote",
+      "Remarks": ""
+    },
+    {
+      "EmployeeSerial": "33333",
+      "EmployeeName": "Jane Doe",
+      "DeptCode": "QWE (CC)",
+      "DepName" : "",
+      "IsManager": "No",
+      "EmployeeType": "",
+      "LocationBluePages": "EGLC|A021|33",
+      "ManagerName": "Michael Leen",
+      "LeaderName": "",
+      "EmployeeEmail": "jane.doe@example.com",
+      "Diversity": "",
+      "WorkLocation": "Office B",
+      "Remarks": ""
+    },
+    {
+      "EmployeeSerial": " 44444",
+      "EmployeeName": "Bob Anderson",
+      "DeptCode": "QWE (CC)",
+      "DepName" : "",
+      "IsManager": "No",
+      "EmployeeType": " ",
+      "LocationBluePages": "EGLC|A021|44",
+      "ManagerName": "Sophia Rodriguez",
+      "LeaderName": "",
+      "EmployeeEmail": "bob.anderson@example.com",
+      "Diversity": "",
+      "WorkLocation": "Office C",
+      "Remarks": ""
+    },
+    {
+      "EmployeeSerial": "55555",
+      "EmployeeName": "Eve Williams",
+      "DeptCode": "QWE (CC)",
+      "DepName" : "",
+      "IsManager": "No",
+      "EmployeeType": "",
+      "LocationBluePages": "EGLC|A021|55",
+      "ManagerName": "Sophia Rodriguez",
+      "LeaderName": "",
+      "EmployeeEmail": "eve.williams@example.com",
+      "Diversity": "",
+      "WorkLocation": "Office D",
+      "Remarks": ""
+    }
+     
+]
