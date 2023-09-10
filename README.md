@@ -67,11 +67,6 @@ Initial login page:<br>
 Homepage: <br>
 <img width="899" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/157a9a2f-a1aa-415a-a517-47972989f02b"><br>
 
-BluePage SyncUp - data retrieved from couchdb and 5 fields editable as name of employee is entered: <br>
-<img width="907" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/79337087-b045-46ec-9251-8479a7a5ce69"><br>
-
-Editing data:<br>
-<img width="907" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/d53e2b9e-3473-4f47-9e00-e604c22c5f9d"><br>
 
 
 
