@@ -57,17 +57,9 @@ In Line 7: Replace database name with your own pre-exisiting database name: cons
     npm start
 </pre>
 
-<br>
-<img width="607" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/764019e7-1bbd-4354-ba24-becb7e1c73d7">
-
-### Images for working reference:
-Initial login page:<br> 
-<img width="903" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/e3249491-b63b-4cc7-8de2-e63a44b8a8c1"><br>
-
-Homepage: <br>
-<img width="899" alt="image" src="https://github.com/iconic-veda/IBM-Project-2023/assets/115919025/157a9a2f-a1aa-415a-a517-47972989f02b"><br>
-
-
+## Step 5: Login credentials
+Username: Shloka
+Password: password
 
 
 
