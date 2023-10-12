@@ -29,6 +29,8 @@ npm install react-icons --save --force
 npm install express express-rate-limit
 
 npm install dotenv
+
+npm install winston
 </pre>
 -> Replace the src folder with the uploaded src directory<br>
 
