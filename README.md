@@ -35,7 +35,7 @@ npm install winston
 -> Replace the src folder with the uploaded src directory<br>
 
 ## Step 3: Set up the backend server
--> Add Backend/server.js to the root folder<br>
+-> Add Backend/server.js to the root folder. Include env.example as .env in the backend folder<br>
 -> In the server.js file make the following changes:<br>
 In Line 2: Replace username, password of CouchDB database with your own, in the format: http://username:password@localhost:5984 <br>
 In Line 7: Replace database name with your own pre-exisiting database name: const dbName = 'database-name'; <br>
